@@ -1,0 +1,5 @@
+JDK/SDK --> Java Development Kit -- Use by java developers as a development tool ,for development , debugging , compling all necessaery tools come up with JDK,for user this JDK does nt want.
+
+JRE --> Java Runtime Environment -- Use by users of java code to run the java program, since developers of java need to run the code for testing they also need to download the JRE (When downloading JDK usually JRE download along with it),
+
+Platform independent --> java considered as platform independent because with different computer , tabs, telephones they run the same java code on the same JRE(can be different versions) without worring about differences of different platforms.It runs on the Runtime Envionment.
