@@ -3,3 +3,13 @@ JDK/SDK --> Java Development Kit -- Use by java developers as a development tool
 JRE --> Java Runtime Environment -- Use by users of java code to run the java program, since developers of java need to run the code for testing they also need to download the JRE (When downloading JDK usually JRE download along with it),
 
 Platform independent --> java considered as platform independent because with different computer , tabs, telephones they run the same java code on the same JRE(can be different versions) without worring about differences of different platforms.It runs on the Runtime Envionment.
+
+file has only one public class, since public class name should be the same as public class name.
+class , method, variables have access modifiers such as public, protected, default, private.
+
+public --> anyone outside the packages can see iit
+protected --> anyone inside the same package can see it also inherited classes can see it
+default -->  anyone inside same package can see it
+private --> inside only the class , not outside world
+
+classes can be public and default , useless with private and protected.
