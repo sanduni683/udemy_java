@@ -1,5 +1,5 @@
 
-public class Classes_Tutorial13 {
+public class Classes_Tutorial1314 {
 
 	public static void main(String[] args) {
 		Person person1 = new Person();
@@ -38,9 +38,10 @@ class Person{ //this class is a default class
 	
 	// 1.data (instances or variables)
 	String name;
-	int age;
-	
-	//2. subroutines (methods)
+    int age;
+
+
+    //2. subroutines (methods)
 	void speak(){
 		System.out.println("Hello I can speak");
 	}
