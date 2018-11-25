@@ -1,2 +1,7 @@
-.idea/*
-target/*
+**/*.iml
+**/*.xml
+.metadata
+target
+*.class
+.project
+.idea
