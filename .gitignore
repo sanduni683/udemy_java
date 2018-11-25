@@ -5,3 +5,14 @@ target
 *.class
 .project
 .idea
+
+#inside any folder ,with any name, followed by .iml  **/*.iml
+#inside any folder ,with any name, followed by .xml  **/*.xml
+#.metadata files                                     .metadata
+#target folder                                       target
+#any file name followed by .class                    *.class
+#.project files                                      .project
+#.idea files                                         .idea
+
+#** --> inside any folder
+#* -->match with any name
